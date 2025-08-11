@@ -15,4 +15,4 @@ redirect_from:
 Room G28, Lady Shaw Building (LSB), The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong
 
 ### Email
-[kingstonpan@link.cuhk.edu.hk](mailto://kingstonpan@link.cuhk.edu.hk)
+[kingstonpan@link.cuhk.edu.hk](mailto:kingstonpan@link.cuhk.edu.hk)
