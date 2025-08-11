@@ -26,7 +26,7 @@ author:
   name             : "Kingston Pan"
   pronouns         : # example: "she/her"  
   bio              : "MPhil @ STA, CUHK"
-  location         : "Earth"
+  location         : "Sha Tin, Hong Kong"
   employer         : "The Chinese University of Hong Kong"
   uri              : # URL
   email            : "Kingstonpan@link.cuhk.edu.hk" 
@@ -34,12 +34,12 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
