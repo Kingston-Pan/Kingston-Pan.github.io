@@ -8,11 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+* Email: [kingstonpan@link.cuhk.edu.hk](mailto:kingstonpan@link.cuhk.edu.hk)
+* Phone: [3943 8535](tel:+85239438535)
+* Address: [Room G28, Lady Shaw Building, CUHK](https://maps.app.goo.gl/zVFaHhvXTa25QeW18)
 
-
-
-### Office Address:
-Room G28, Lady Shaw Building (LSB), The Chinese University of Hong Kong (CUHK), Shatin, N.T., Hong Kong
-
-### Email
-[kingstonpan@link.cuhk.edu.hk](mailto:kingstonpan@link.cuhk.edu.hk)
