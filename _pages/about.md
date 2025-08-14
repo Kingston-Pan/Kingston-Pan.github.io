@@ -14,5 +14,5 @@ I am a research postgraduate student in the [Department of Statistics](https://w
 ### Education
 * M.Phil in Risk Management Science @ CUHK (Supervisor: [Prof. Wong Hoi Ying](https://www.sta.cuhk.edu.hk/peoples/hywong/))
 * B.Sc in Risk Management Science with First Class Honours @ CUHK
-* * Minor in Statistics
+   * Minor in Statistics
 
